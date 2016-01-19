@@ -1,6 +1,6 @@
 {
   "name": "workshopper-timer",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A utility to test the execution time of the submission against the solution",
   "main": "index.js",
   "scripts": {
